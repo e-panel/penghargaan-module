@@ -1,0 +1,15 @@
+{
+    "name": "Penghargaan",
+    "alias": "penghargaan",
+    "description": "Module Penghargaan untuk E-Panel.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Penghargaan\\Providers\\PenghargaanServiceProvider"
+    ],
+    "aliases": {
+        "Penghargaan": "Modules\\Penghargaan\\Entities\\Penghargaan"
+    },
+    "files": [],
+    "requires": []
+}
